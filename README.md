@@ -4,6 +4,10 @@ Fitrah Rizki Ardiansyah
 311910465
 TI.19.A.2
 ```
+# LINK PRAKTIKUM 10
+https://github.com/RizzKey/Lab10Web
+
+
 # LANGKAH 1
 # Jalankan XAMPP dan akses http://localhost/phpmyadmin/ untuk membuat database.
 ![image](https://user-images.githubusercontent.com/56240954/121228997-a18ee900-c8b7-11eb-86b3-b0aebe6e2f88.png)
